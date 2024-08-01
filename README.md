@@ -7,4 +7,4 @@ A simple package to send messages to WeChat Work (企业微信) using webhooks.
 You can install the package using pip:
 
 ```bash
-pip install qw_webhook
+pip install https://github.com/ProfessorZhang/qw_webhook.git
