@@ -12,7 +12,7 @@ pip install git+https://github.com/ProfessorZhang/qw_webhook.git
 
 ## Import
 ```python
-import qw_webhook
+from qw_webhook.webhook import QWWebhook
 ```
 
 ## USE
