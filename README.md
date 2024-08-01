@@ -1,6 +1,6 @@
 # QW Webhook
 
-A simple package to send messages to WeChat Work (企业微信) using webhooks.
+A simple package to send messages to WeChat Work using webhooks.
 
 ## Installation
 
