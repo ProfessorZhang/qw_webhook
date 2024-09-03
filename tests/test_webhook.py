@@ -1,6 +1,6 @@
 from qw_webhook.webhook import QWWebhook
 
-webhook_url = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=a7b704b2-889c-4d30-8026-359f010ceb7f"
+webhook_url = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=XXXX"
 msg_type = "text"
 msg_content ={
         "content": "广州今日天气：29度，大部分多云，降雨概率：60%",
